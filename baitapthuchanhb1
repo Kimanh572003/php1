@@ -1,1 +1,8 @@
+<?php
+$ten = 'NguyenVanSang';
 
+// Sử dụng hàm strlen() để xác định số ký tự trong chuỗi
+$soKyTu = strlen($ten);
+
+echo "Số ký tự trong chuỗi tên của bạn là: $soKyTu";
+?>
